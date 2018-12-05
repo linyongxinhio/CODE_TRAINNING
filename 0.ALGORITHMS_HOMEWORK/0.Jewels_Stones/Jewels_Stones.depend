@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1539782629 source:d:\jewels_stones\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1540981725 source:c:\users\linyongxin\desktop\code\0.algorithms_homework\word_search\main.cpp
+	<iostream>
+	<vector>
+	<string>
+
